@@ -7,6 +7,8 @@ This is an unofficial API for Instagram's new [Threads](https://www.threads.net/
 Consider it unstable as it is reverse-engineered from [Threads' Web version](https://www.threads.net/@zuck).
 
 ```ts
+import { Threads } from "unofficial-threads-api";
+
 const client = new Threads();
 
 client.user(userId).then((user) => console.log(user));

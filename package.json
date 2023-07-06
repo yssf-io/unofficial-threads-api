@@ -1,5 +1,5 @@
 {
-  "name": "threads-api",
+  "name": "unofficial-threads-api",
   "description": "Unofficial Threads API",
   "version": "1.0.0",
   "main": "lib/index.js",
